@@ -1,4 +1,3 @@
 # Personal Information Page
 
-
-![Screenshot](https://github.com/user-attachments/assets/88fba67e-ca92-4391-9405-9894e657ad38)
+![Main Page](https://github.com/user-attachments/assets/c0404854-bc55-442b-946b-c925adce107a)
